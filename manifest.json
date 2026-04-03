@@ -1,0 +1,21 @@
+{
+  "name": "Perceptual UI Engine",
+  "short_name": "PUIE",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "description": "Sistema Nervioso Digital - Perceptual UI Engine PWA",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/111111/00ff88?text=PUIE",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/111111/00ff88?text=PUIE",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
